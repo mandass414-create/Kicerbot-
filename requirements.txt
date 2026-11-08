@@ -1,6 +1,7 @@
-python-telegram-bot==20.7
-Flask==3.0.0
-Pillow==10.2.0
-requests==2.31.0
-numpy==1.26.4
+python-telegram-bot
+Flask
+Pillow
+requests
+numpy
 rembg
+onnxruntime
